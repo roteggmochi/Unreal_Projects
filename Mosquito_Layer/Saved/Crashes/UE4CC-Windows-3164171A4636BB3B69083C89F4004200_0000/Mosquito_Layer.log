@@ -1,0 +1,1412 @@
+﻿Log file open, 03/02/21 02:58:53
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Mosquito_Layer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.162093
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/dakon/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz, GPU: NVIDIA Quadro K2200
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+[2021.03.02-10.58.56:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.02-10.58.56:838][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+[2021.03.02-10.58.56:838][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+[2021.03.02-10.58.56:890][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.02-10.58.56:890][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.02-10.58.56:891][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.02-10.58.56:892][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.02-10.58.56:893][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.02-10.58.56:893][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.02-10.58.56:893][  0]LogHAL: Display: Platform has ~ 64 GB [68631302144 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.02-10.58.56:893][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.02-10.58.56:893][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.02-10.58.56:893][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.02-10.58.56:894][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.02-10.58.56:895][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.02-10.58.56:900][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.02-10.58.56:900][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.02-10.58.56:900][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.02-10.58.56:900][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Config/Windows/Engine.ini]
+[2021.03.02-10.58.56:901][  0]LogInit: Computer: DAKONTADESKTOP
+[2021.03.02-10.58.56:901][  0]LogInit: User: dakon
+[2021.03.02-10.58.56:901][  0]LogInit: CPU Page size=4096, Cores=20
+[2021.03.02-10.58.56:901][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.02-10.58.56:901][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2021.03.02-10.58.56:901][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.02-10.58.56:901][  0]LogMemory: Process Physical Memory: 146.32 MB used, 146.32 MB peak
+[2021.03.02-10.58.56:901][  0]LogMemory: Process Virtual Memory: 134.93 MB used, 134.93 MB peak
+[2021.03.02-10.58.56:901][  0]LogMemory: Physical Memory: 27789.86 MB used,  37662.05 MB free, 65451.91 MB total
+[2021.03.02-10.58.56:901][  0]LogMemory: Virtual Memory: 134190184.00 MB used,  27546.85 MB free, 134217728.00 MB total
+[2021.03.02-10.58.56:914][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.02-10.58.57:166][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.02-10.58.57:172][  0]LogInit: Using OS detected language (en-US).
+[2021.03.02-10.58.57:172][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.02-10.58.57:208][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.02-10.58.57:802][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.02-10.58.57:848][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.02-10.58.58:078][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.02-10.58.58:078][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.02-10.59.00:476][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.02-10.59.00:476][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.02-10.59.00:476][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.02-10.59.00:476][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.02-10.59.00:561][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2200' (Feature Level 11_0)
+[2021.03.02-10.59.00:561][  0]LogD3D11RHI:       4035/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.02-10.59.00:571][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.02-10.59.00:571][  0]LogD3D11RHI:       0/0/32725 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.02-10.59.00:571][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.02-10.59.00:592][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.02-10.59.00:592][  0]LogD3D11RHI:     GPU DeviceId: 0x13ba (for the marketing name, search the web for "GPU Device Id")
+[2021.03.02-10.59.00:592][  0]LogWindows: EnumDisplayDevices:
+[2021.03.02-10.59.00:593][  0]LogWindows:    0. 'NVIDIA Quadro K2200' (P:1 D:1)
+[2021.03.02-10.59.00:594][  0]LogWindows:    1. 'NVIDIA Quadro K2200' (P:0 D:1)
+[2021.03.02-10.59.00:595][  0]LogWindows:    2. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2021.03.02-10.59.00:596][  0]LogWindows:    3. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2021.03.02-10.59.00:596][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.02-10.59.00:596][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2200
+[2021.03.02-10.59.00:596][  0]LogD3D11RHI:   Driver Version: 353.30 (internal:10.18.13.5330, unified:353.30)
+[2021.03.02-10.59.00:596][  0]LogD3D11RHI:      Driver Date: 6-17-2015
+[2021.03.02-10.59.00:597][  0]LogRHI: Texture pool is 2824 MB (70% of 4035 MB)
+[2021.03.02-10.59.00:651][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.03.02-10.59.00:651][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2021.03.02-10.59.00:651][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.02-10.59.00:706][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.02-10.59.00:712][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.02-10.59.02:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.02-10.59.02:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.02-10.59.02:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.02-10.59.02:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.02-10.59.02:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.02-10.59.02:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.02-10.59.02:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.02-10.59.02:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.02-10.59.02:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.02-10.59.02:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.02-10.59.02:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.02-10.59.02:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.02-10.59.02:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.02-10.59.02:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.02-10.59.02:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.02-10.59.02:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.02-10.59.02:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.02-10.59.03:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.02-10.59.03:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.02-10.59.03:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.02-10.59.03:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.02-10.59.03:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.02-10.59.03:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.02-10.59.03:190][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.02-10.59.03:248][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.02-10.59.03:973][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.02-10.59.03:974][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Intermediate/Shaders/WorkingDirectory/49728/).
+[2021.03.02-10.59.03:975][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dakon/AppData/Local/Temp/UnrealShaderWorkingDir/E0DD43844BFDE283ABE8ADAADD3E2B56/'.
+[2021.03.02-10.59.03:976][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.02-10.59.03:976][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.02-10.59.07:733][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.02-10.59.07:886][  0]LogDerivedDataCache: Loaded boot cache 0.15s 77MB C:/Users/dakon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.02-10.59.07:886][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dakon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.02-10.59.07:886][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.02-10.59.07:886][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.02-10.59.07:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.02-10.59.07:887][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.02-10.59.07:907][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.02-10.59.07:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.02-10.59.07:907][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.02-10.59.07:997][  0]LogDerivedDataCache: Speed tests for C:/Users/dakon/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.09 seconds
+[2021.03.02-10.59.07:997][  0]LogDerivedDataCache: Display: Performance to C:/Users/dakon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.40ms. RandomReadSpeed=24.49MBs, RandomWriteSpeed=19.95MBs. Assigned SpeedClass 'Local'
+[2021.03.02-10.59.07:998][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dakon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.02-10.59.07:998][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.02-10.59.07:998][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.02-10.59.08:115][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.02-10.59.08:130][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.02-10.59.08:226][  0]LogAssetRegistry: FAssetRegistry took 0.0079 seconds to start up
+[2021.03.02-10.59.08:760][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.02-10.59.08:761][  0]LogInit: Active device profile: [0000025A2109E200][0000025A02465340 49] Windows
+[2021.03.02-10.59.08:761][  0]LogInit: Profiles: [0000025A2109E200][0000025A02465340 49] Windows, [0000025A2103E500][0000025A0246D4C0 49] WindowsNoEditor, [0000025A2109D400][0000025A02469600 49] WindowsServer, [0000025A2103F200][0000025A02471740 49] WindowsClient, [0000025A2109C800][0000025A02475880 49] IOS, [0000025A2103E900][0000025A0247DA00 49] iPadAir, [0000025A2109CE00][0000025A02481B80 49] iPadAir2, [0000025A20FEA300][0000025A1FEC0180 49] IPadPro, [0000025A20FEA400][0000025A024841C0 49] iPadAir3, [0000025A2103D400][0000025A1FEC4340 49] iPadAir4, [0000025A20FEA600][0000025A1FEC84C0 49] iPadMini2, [0000025A2103FE00][0000025A1FECC640 49] iPadMini3, [0000025A20FE9200][0000025A1FED07C0 49] iPadMini4, [0000025A2103E100][0000025A1FED4940 49] iPadMini5, [0000025A21011B00][0000025A1FEDCC00 49] iPhone6, [0000025A21011C00][0000025A1FED8C40 49] iPodTouch6, [0000025A20FE9E00][0000025A1FEE4F00 49] iPhone7, [0000025A20FE9D00][0000025A1FEE0F40 49] iPodTouch7, [0000025A21013400][0000025A1FEE90C0 49] iPhone5S, [0000025A20FE8C00][0000025A1FEED240 49] iPhone6Plus, [0000025A21011400][0000025A1FEF13C0 49] iPhone6S, [0000025A20FE8200][0000025A1FEF5540 49] iPhone6SPlus, [0000025A21010300][0000025A02479680 49] iPhone7Plus, [0000025A20FE8400][0000025A1FEF97C0 49] iPhoneSE, [0000025A21012700][0000025A1FEFD900 49] iPhone8, [0000025A20FEBE00][0000025A1FF05A80 49] iPhone8Plus, [0000025A21011900][0000025A1FF09C00 49] iPhoneX, [0000025A20FEA100][0000025A1FF0C0C0 49] iPhoneXS, [0000025A21013700][0000025A1FF10240 49] iPhoneXSMax, [0000025A20FEBC00][0000025A1FF143C0 49] iPhoneXR, [0000025A21011A00][0000025A1FF18540 49] iPhone11, [0000025A20FE8A00][0000025A1FF1C6C0 49] iPhone11Pro, [0000025A21012800][0000025A1FF20840 49] iPhone11ProMax, [0000025A20FEB000][0000025A1FF249C0 49] iPhoneSE2, [0000025A21010500][0000025A1FF28B40 49] iPhone12Mini, [0000025A20FE9500][0000025A1FF2CCC0 49] iPhone12, [0000025A21012000][0000025A220D6E40 49] iPhone12Pro, [0000025A20FEA500][0000025A220DAFC0 49] iPhone12ProMax, [0000025A21013D00][0000025A220DF140 49] iPadPro105, [0000025A2109CB00][0000025A220E32C0 49] iPadPro129, [0000025A21013500][0000025A220E7440 49] iPadPro97, [0000025A2109DD00][0000025A220EB5C0 49] iPadPro2_129, [0000025A21011100][0000025A1FF01700 49] iPad5, [0000025A2109C400][0000025A220EF840 49] iPad6, [0000025A21012E00][0000025A220F3980 49] iPad7, [0000025A2109E800][0000025A220F7AC0 49] iPad8, [0000025A21010600][0000025A220FFC40 49] iPadPro11, [0000025A2109E700][0000025A22102100 49] iPadPro2_11, [0000025A21012200][0000025A22106280 49] iPadPro3_129, [0000025A2109DA00][0000025A2210A400 49] iPadPro4_129, [0000025A21010B00][0000025A2210E580 49] AppleTV, [0000025A2109DE00][0000025A22112700 49] AppleTV4K, [0000025A21011200][0000025A22116880 49] TVOS, [0000025A2109E500][0000025A2211AA00 49] Mac, [0000025A21013600][0000025A2211EB80 49] MacClient, [0000025A2109ED00][0000025A22122D00 49] MacNoEditor, [0000025A21012A00][0000025A22126E80 49] MacServer, [0000025A2109EA00][0000025A2212B000 49] Linux, [0000025A21012100][0000025A2212F180 49] LinuxNoEditor, [0000025A2109EB00][0000025A22133300 49] LinuxAArch64NoEditor, [0000025A21013800][0000025A22137480 49] LinuxClient, [0000025A2109D200][0000025A2213B600 49] LinuxAArch64Client, [0000025A21010A00][0000025A220FB740 49] LinuxServer, [0000025A2109DF00][0000025A2213F880 49] LinuxAArch64Server, [0000025A21010F00][0000025A221439C0 49] Android, [0000025A2109F700][0000025A22147B00 49] Android_Low, [0000025A21010C00][0000025A2214FC80 49] Android_Mid, [0000025A2109EC00][0000025A22152140 49] Android_High, [0000025A21012C00][0000025A221562C0 49] Android_Default, [0000025A2109D300][0000025A2215A440 49] Android_Adreno4xx, [0000025A21012300][0000025A2215E5C0 49] Android_Adreno5xx_Low, [0000025A2109D000][0000025A22162740 49] Android_Adreno5xx, [0000025A21010E00][0000025A221668C0 49] Android_Adreno6xx, [0000025A2109E000][0000025A2216AA40 49] Android_Adreno6xx_Vulkan, [0000025A21011600][0000025A2216EBC0 49] Android_Mali_T6xx, [0000025A2109DB00][0000025A22172D40 49] Android_Mali_T7xx, [0000025A21013100][0000025A22176EC0 49] Android_Mali_T8xx, [0000025A2109CF00][0000025A2217B040 49] Android_Mali_G71, [0000025A21012F00][0000025A2217F1C0 49] Android_Mali_G72, [0000025A2109D500][0000025A22183340 49] Android_Mali_G72_Vulkan, [0000025A21011300][0000025A221874C0 49] Android_Mali_G76, [0000025A2109C700][0000025A2218B640 49] Android_Mali_G76_Vulkan, [0000025A2103E600][0000025A2218F7C0 49] Android_Mali_G77, [0000025A20FEB100][0000025A2214B900 49] Android_Mali_G77_Vulkan, [0000025A2103C400][0000025A22193A40 49] Android_Vulkan_SM5, [0000025A20FEAB00][0000025A22197B80 49] Android_PowerVR_G6xxx, [0000025A2103D900][0000025A2219FD00 49] Android_PowerVR_GT7xxx, [0000025A20FEBB00][0000025A221A21C0 49] Android_PowerVR_GE8xxx, [0000025A2103E800][0000025A221A6340 49] Android_PowerVR_GM9xxx, [0000025A20FEB500][0000025A221AA4C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000025A2103C500][0000025A221AE640 49] Android_TegraK1, [0000025A20FEB600][0000025A221B27C0 49] Android_Unknown_Vulkan, [0000025A2103EA00][0000025A221B6940 49] Lumin, [0000025A20FE9600][0000025A221BAAC0 49] Lumin_Desktop, [0000025A2103CE00][0000025A221BEC40 49] HoloLens, 
+[2021.03.02-10.59.09:338][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.02-10.59.09:338][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.02-10.59.09:338][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.02-10.59.09:338][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.02-10.59.09:339][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.02-10.59.09:502][  0]LogNetVersion: Mosquito_Layer 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3849745730)
+[2021.03.02-10.59.10:942][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.02-10.59.11:108][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.164898 seconds
+[2021.03.02-10.59.11:115][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.02-10.59.11:116][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.02-10.59.11:116][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.02-10.59.14:433][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.02-10.59.14:473][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.02-10.59.15:758][  0]SourceControl: Source control is disabled
+[2021.03.02-10.59.15:758][  0]SourceControl: Source control is disabled
+[2021.03.02-10.59.15:800][  0]SourceControl: Source control is disabled
+[2021.03.02-10.59.15:891][  0]SourceControl: Source control is disabled
+[2021.03.02-10.59.15:988][  0]SourceControl: Source control is disabled
+[2021.03.02-10.59.16:015][  0]LogUProjectInfo: Found projects:
+[2021.03.02-10.59.16:059][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.02-10.59.16:061][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.02-10.59.17:756][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.02-10.59.17:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.02-10.59.17:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.02-10.59.18:482][  0]LogCollectionManager: Loaded 0 collections in 0.008364 seconds
+[2021.03.02-10.59.18:654][  0]LogFileCache: Scanning file cache for directory 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Collections/' took 0.00s
+[2021.03.02-10.59.18:654][  0]LogFileCache: Scanning file cache for directory 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Developers/dakon/Collections/' took 0.00s
+[2021.03.02-10.59.18:654][  0]LogFileCache: Scanning file cache for directory 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Collections/' took 0.00s
+[2021.03.02-10.59.18:654][  0]LogOcInput: OculusInput pre-init called
+[2021.03.02-10.59.18:738][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.02-10.59.18:739][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.02-10.59.19:041][  0]LogEngine: Initializing Engine...
+[2021.03.02-10.59.19:044][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.02-10.59.19:044][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.02-10.59.19:048][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.03.02-10.59.19:503][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.02-10.59.19:583][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.02-10.59.19:590][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.02-10.59.19:623][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.02-10.59.19:623][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.02-10.59.19:624][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-10.59.19:624][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-10.59.19:624][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-10.59.19:624][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-10.59.19:624][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-10.59.19:624][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-10.59.19:624][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-10.59.19:624][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-10.59.19:625][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-10.59.19:625][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-10.59.19:682][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-10.59.19:682][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-10.59.19:753][  0]LogAudioMixer: Display: Using Audio Device Speakers (JieLi BR17)
+[2021.03.02-10.59.19:753][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-10.59.19:770][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-10.59.19:770][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-10.59.19:772][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-10.59.19:773][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.02-10.59.19:773][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.02-10.59.19:776][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.02-10.59.19:776][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.02-10.59.19:776][  0]LogInit: FAudioDevice initialized.
+[2021.03.02-10.59.19:776][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.02-10.59.19:776][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.02-10.59.19:866][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/dakon/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.02-10.59.19:869][  0]LogInit: Texture streaming: Enabled
+[2021.03.02-10.59.19:962][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.03.02-10.59.19:994][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.02-10.59.19:994][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.02-10.59.20:009][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.02-10.59.20:169][  0]LogInit: Transaction tracking system initialized
+[2021.03.02-10.59.20:405][  0]BlueprintLog: New page: Editor Load
+[2021.03.02-10.59.21:200][  0]LocalizationService: Localization service is disabled
+[2021.03.02-10.59.21:467][  0]TimingProfiler: Initialize
+[2021.03.02-10.59.21:468][  0]TimingProfiler: OnSessionChanged
+[2021.03.02-10.59.21:469][  0]LoadingProfiler: Initialize
+[2021.03.02-10.59.21:469][  0]LoadingProfiler: OnSessionChanged
+[2021.03.02-10.59.21:470][  0]NetworkingProfiler: Initialize
+[2021.03.02-10.59.21:470][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.02-10.59.21:470][  0]MemoryProfiler: Initialize
+[2021.03.02-10.59.21:470][  0]MemoryProfiler: OnSessionChanged
+[2021.03.02-10.59.21:918][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.02-10.59.21:920][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.03.02-10.59.22:331][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.02-10.59.22:331][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.02-10.59.22:750][  0]LogFileCache: Scanning file cache for directory 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/' took 0.07s
+[2021.03.02-10.59.24:076][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.02-10.59.24:091][  0]SourceControl: Source control is disabled
+[2021.03.02-10.59.24:091][  0]LogUnrealEdMisc: Loading editor; pre map load, took 33.201
+[2021.03.02-10.59.24:093][  0]Cmd: MAP LOAD FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.02-10.59.24:094][  0]LightingResults: New page: Lighting Build
+[2021.03.02-10.59.24:098][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-10.59.24:098][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-10.59.24:099][  0]MapCheck: New page: Map Check
+[2021.03.02-10.59.24:099][  0]LightingResults: New page: Lighting Build
+[2021.03.02-10.59.24:127][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.03.02-10.59.26:332][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.03.02-10.59.26:334][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.03.02-10.59.26:367][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.02-10.59.26:389][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.02-10.59.26:396][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.02-10.59.26:397][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.508ms to complete.
+[2021.03.02-10.59.26:397][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.304
+[2021.03.02-10.59.26:418][  0]LogUnrealEdMisc: Total Editor Startup Time, took 35.528
+[2021.03.02-10.59.26:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-10.59.26:804][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-10.59.26:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-10.59.26:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-10.59.26:871][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0145 seconds. Added 3601 classes and 859 folders.
+[2021.03.02-10.59.26:878][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.02-10.59.26:891][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.02-10.59.26:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.02-10.59.26:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.03.02-10.59.26:897][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.02-10.59.26:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.02-10.59.26:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.02-10.59.26:903][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.02-10.59.26:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.02-10.59.26:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.02-10.59.26:908][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.02-10.59.26:908][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:908][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.02-10.59.26:908][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.03.02-10.59.26:914][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.02-10.59.26:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.02-10.59.26:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.03.02-10.59.26:920][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.02-10.59.26:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.02-10.59.26:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.03.02-10.59.26:925][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.02-10.59.26:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.02-10.59.26:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.02-10.59.26:930][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.02-10.59.26:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.02-10.59.26:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.02-10.59.26:936][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.02-10.59.26:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.02-10.59.26:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.03.02-10.59.26:943][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.02-10.59.26:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.02-10.59.26:943][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.03.02-10.59.26:950][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.02-10.59.26:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.02-10.59.26:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.03.02-10.59.26:955][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.02-10.59.26:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.02-10.59.26:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.03.02-10.59.26:960][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.02-10.59.26:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.02-10.59.26:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.03.02-10.59.26:966][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.02-10.59.26:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.02-10.59.26:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.03.02-10.59.26:971][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.02-10.59.26:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.02-10.59.26:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.03.02-10.59.26:977][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.02-10.59.26:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.02-10.59.26:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.03.02-10.59.26:982][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.02-10.59.26:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.02-10.59.26:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.03.02-10.59.26:988][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.02-10.59.26:988][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:988][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.02-10.59.26:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.03.02-10.59.26:993][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.02-10.59.26:993][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:993][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.02-10.59.26:993][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.03.02-10.59.26:999][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.02-10.59.26:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.26:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.02-10.59.26:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.03.02-10.59.27:004][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.02-10.59.27:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.27:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.02-10.59.27:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.03.02-10.59.27:010][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.02-10.59.27:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.27:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.02-10.59.27:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.03.02-10.59.27:016][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.02-10.59.27:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.27:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.02-10.59.27:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.03.02-10.59.27:022][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.02-10.59.27:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.27:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.02-10.59.27:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.03.02-10.59.27:028][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.02-10.59.27:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.27:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.02-10.59.27:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.03.02-10.59.27:034][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.02-10.59.27:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.02-10.59.27:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.02-10.59.27:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.03.02-10.59.27:404][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.02-10.59.27:408][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.02-10.59.27:691][  0]LogSlate: Took 0.003015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.02-10.59.27:698][  0]LogSlate: Took 0.003067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.02-10.59.27:712][  0]LogSlate: Took 0.002770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.02-10.59.28:017][  0]LogRenderer: Reallocating scene render targets to support 1316x812 Format 10 NumSamples 1 (Frame:1).
+[2021.03.02-10.59.28:327][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.03.02-10.59.28:328][  0]LogLoad: (Engine Initialization) Total time: 37.44 seconds
+[2021.03.02-10.59.28:328][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.02-10.59.28:328][  0]LogInit: First time updating LLM stats...
+[2021.03.02-10.59.28:455][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.02-10.59.28:585][  1]LogAssetRegistry: Asset discovery search completed in 20.3617 seconds
+[2021.03.02-10.59.28:587][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2021.03.02-10.59.30:762][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Green_v4)
+[2021.03.02-10.59.31:417][ 78]LogSlate: Took 0.002781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.02-10.59.31:894][ 86]Cmd: DELETE
+[2021.03.02-10.59.31:894][ 86]Cmd: ACTOR DELETE
+[2021.03.02-10.59.31:903][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.02-10.59.31:920][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.03.02-10.59.31:925][ 86]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.03.02-10.59.33:554][177]LogFileCache: Retrieving MD5 hashes for directory 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/' took 5.20s
+[2021.03.02-10.59.39:144][403]AssetReimport: New page: Outstanding source content changes 6:59:39 PM
+[2021.03.02-10.59.39:303][404]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BearRug_BaseColor_UV_v01.png)
+[2021.03.02-10.59.39:653][405]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BloodMachine_BaseColor_UV_v01.png)
+[2021.03.02-10.59.39:965][406]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BloodTankGlass_BaseColor_UV_v01.png)
+[2021.03.02-10.59.40:187][407]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BloodTank_BaseColor_UV_v01.png)
+[2021.03.02-10.59.40:489][408]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BrokenLadder_BaseColor_UV_v01.png)
+[2021.03.02-10.59.40:753][409]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_ChairBig_BaseColor_UV_v01.png)
+[2021.03.02-10.59.41:005][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Chair_small_BaseColor_UV_v_001.png)
+[2021.03.02-10.59.41:247][411]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Closet_BaseColor_UV_v01.png)
+[2021.03.02-10.59.41:565][412]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Floor_BaseColor_UV_v01.png)
+[2021.03.02-10.59.41:908][413]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Painting_001_BaseColor_UV_v01.png)
+[2021.03.02-10.59.42:311][414]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v01.png)
+[2021.03.02-10.59.42:622][415]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v03.png)
+[2021.03.02-10.59.42:963][416]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Pipes_BaseColor_UV_v01.png)
+[2021.03.02-10.59.43:228][417]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_TableSmall_BaseColor_UV_v01.png)
+[2021.03.02-10.59.43:446][418]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallBackBlock_BaseColor_UV_v01.png)
+[2021.03.02-10.59.43:850][419]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallBackBlock_Height_UV_v01.png)
+[2021.03.02-10.59.44:285][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallBack_BaseColor_UV_v01.png)
+[2021.03.02-10.59.45:031][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallConstruction_BaseColor_UV_v01.png)
+[2021.03.02-10.59.45:557][422]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bathtub_BL.fbx)
+[2021.03.02-10.59.45:597][422]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bathtub_BL.fbx
+[2021.03.02-10.59.45:626][422]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.00.04:993][422]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.00.06:183][422]LogStaticMesh: Building static mesh bathtub_BL...
+[2021.03.02-11.00.06:574][422]LogStaticMesh: Built static mesh [0.39s] /Game/Art/Meshes/Mosquito_Lair/bathtub_BL.bathtub_BL
+[2021.03.02-11.00.06:927][423]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodMachine_BL.fbx)
+[2021.03.02-11.00.07:046][423]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodMachine_BL.fbx
+[2021.03.02-11.00.07:648][423]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.00.10:258][423]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.01.09:679][423]LogStaticMesh: Building static mesh bloodMachine_BL...
+[2021.03.02-11.01.25:422][423]LogStaticMesh: Built static mesh [15.74s] /Game/Art/Meshes/Mosquito_Lair/bloodMachine_BL.bloodMachine_BL
+[2021.03.02-11.01.43:876][423]LogSlate: Took 0.002278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.02-11.01.43:892][424]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.fbx)
+[2021.03.02-11.01.43:910][424]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.fbx
+[2021.03.02-11.01.44:025][424]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.01.53:585][424]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.01.55:298][424]LogStaticMesh: Building static mesh bloodTankTable_BL...
+[2021.03.02-11.01.56:152][424]LogStaticMesh: Built static mesh [0.86s] /Game/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.bloodTankTable_BL
+[2021.03.02-11.01.56:554][425]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTank_BL.fbx)
+[2021.03.02-11.01.56:571][425]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTank_BL.fbx
+[2021.03.02-11.01.56:654][425]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.02.04:470][425]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.02.06:030][425]LogStaticMesh: Building static mesh bloodTank_BL...
+[2021.03.02-11.02.06:667][425]LogStaticMesh: Built static mesh [0.64s] /Game/Art/Meshes/Mosquito_Lair/bloodTank_BL.bloodTank_BL
+[2021.03.02-11.02.07:105][426]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/carts_BL.fbx)
+[2021.03.02-11.02.07:133][426]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/carts_BL.fbx
+[2021.03.02-11.02.07:262][426]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.02.08:886][426]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.02.13:563][426]LogStaticMesh: Building static mesh carts_BL...
+[2021.03.02-11.02.15:156][426]LogStaticMesh: Built static mesh [1.59s] /Game/Art/Meshes/Mosquito_Lair/carts_BL.carts_BL
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_Labprops_Cart3' was renamed to 'pasted__LC_Labprops_Cart31' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_BeakerRound3' was renamed to 'pasted__LC_LabProps_BeakerRound32' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LapProps_Box4' was renamed to 'pasted__LC_LapProps_Box43' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker7' was renamed to 'pasted__LC_LabProps_TriangleBeaker74' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_ContainerFull1' was renamed to 'pasted__LC_LabProps_ContainerFull15' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TopBrokenContainer1' was renamed to 'pasted__LC_LabProps_TopBrokenContainer16' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker6' was renamed to 'pasted__LC_LabProps_TriangleBeaker67' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker5' was renamed to 'pasted__LC_LabProps_TriangleBeaker58' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_Bowl3' was renamed to 'pasted__LC_LabProps_Bowl39' 
+[2021.03.02-11.02.15:945][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker4' was renamed to 'pasted__LC_LabProps_TriangleBeaker410' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_Bowl7' was renamed to 'pasted__LC_LabProps_Bowl711' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_Labprops_Cart3' was renamed to 'pasted__LC_Labprops_Cart312' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_BeakerRound3' was renamed to 'pasted__LC_LabProps_BeakerRound313' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LapProps_Box4' was renamed to 'pasted__LC_LapProps_Box414' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker7' was renamed to 'pasted__LC_LabProps_TriangleBeaker715' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_ContainerFull1' was renamed to 'pasted__LC_LabProps_ContainerFull116' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TopBrokenContainer1' was renamed to 'pasted__LC_LabProps_TopBrokenContainer117' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker6' was renamed to 'pasted__LC_LabProps_TriangleBeaker618' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker5' was renamed to 'pasted__LC_LabProps_TriangleBeaker519' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_Bowl3' was renamed to 'pasted__LC_LabProps_Bowl320' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker4' was renamed to 'pasted__LC_LabProps_TriangleBeaker421' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_Bowl7' was renamed to 'pasted__LC_LabProps_Bowl722' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_Labprops_Cart3' was renamed to 'pasted__LC_Labprops_Cart323' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_BeakerRound3' was renamed to 'pasted__LC_LabProps_BeakerRound324' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LapProps_Box4' was renamed to 'pasted__LC_LapProps_Box425' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker7' was renamed to 'pasted__LC_LabProps_TriangleBeaker726' 
+[2021.03.02-11.02.15:946][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_ContainerFull1' was renamed to 'pasted__LC_LabProps_ContainerFull127' 
+[2021.03.02-11.02.15:947][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TopBrokenContainer1' was renamed to 'pasted__LC_LabProps_TopBrokenContainer128' 
+[2021.03.02-11.02.15:947][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker6' was renamed to 'pasted__LC_LabProps_TriangleBeaker629' 
+[2021.03.02-11.02.15:947][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker5' was renamed to 'pasted__LC_LabProps_TriangleBeaker530' 
+[2021.03.02-11.02.15:947][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_Bowl3' was renamed to 'pasted__LC_LabProps_Bowl331' 
+[2021.03.02-11.02.15:947][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_TriangleBeaker4' was renamed to 'pasted__LC_LabProps_TriangleBeaker432' 
+[2021.03.02-11.02.15:947][426]FBXImport: FBX File Loading: Found name clash, node 'pasted__LC_LabProps_Bowl7' was renamed to 'pasted__LC_LabProps_Bowl733' 
+[2021.03.02-11.02.16:458][427]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/container_BL.fbx)
+[2021.03.02-11.02.16:480][427]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/container_BL.fbx
+[2021.03.02-11.02.16:562][427]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.03.13:621][427]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.03.13:990][427]LogFbx: Triangulating skeletal mesh pasted__YXU_bottles
+[2021.03.02-11.03.17:157][427]LogFbx: Triangulating skeletal mesh pasted__Yxu_container1
+[2021.03.02-11.03.17:320][427]LogFbx: Triangulating skeletal mesh pasted__Yxu_container2
+[2021.03.02-11.03.17:509][427]LogFbx: Triangulating skeletal mesh pasted__Yxu_container
+[2021.03.02-11.03.34:860][427]LogSkeletalMesh: Section 0: Material=0, 87360 triangles
+[2021.03.02-11.03.34:860][427]LogSkeletalMesh: Section 1: Material=1, 11276 triangles
+[2021.03.02-11.03.34:869][427]LogSkeletalMesh: Building Skeletal Mesh container_BL...
+[2021.03.02-11.03.50:974][427]LogSkeletalMesh: Section 0: Material=0, 87360 triangles
+[2021.03.02-11.03.50:975][427]LogSkeletalMesh: Section 1: Material=1, 11276 triangles
+[2021.03.02-11.03.51:357][427]LogSkeletalMesh: Built Skeletal Mesh [16.49s] /Game/Art/Meshes/Mosquito_Lair/container_BL.container_BL
+[2021.03.02-11.03.51:496][427]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-11.03.51:497][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-11.03.51:946][428]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/door_BL.fbx)
+[2021.03.02-11.03.51:974][428]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/door_BL.fbx
+[2021.03.02-11.03.52:015][428]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.13:147][428]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.16:148][428]LogStaticMesh: Building static mesh door_BL...
+[2021.03.02-11.04.17:431][428]LogStaticMesh: Built static mesh [1.28s] /Game/Art/Meshes/Mosquito_Lair/door_BL.door_BL
+[2021.03.02-11.04.18:241][429]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/fridges_BL.fbx)
+[2021.03.02-11.04.18:258][429]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/fridges_BL.fbx
+[2021.03.02-11.04.18:295][429]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.21:194][429]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.21:931][429]LogStaticMesh: Building static mesh fridges_BL...
+[2021.03.02-11.04.22:158][429]LogStaticMesh: Built static mesh [0.23s] /Game/Art/Meshes/Mosquito_Lair/fridges_BL.fridges_BL
+[2021.03.02-11.04.22:234][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_22' was renamed to 'pasted__DP_fridge_221' 
+[2021.03.02-11.04.22:234][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_6' was renamed to 'pasted__DP_fridge_62' 
+[2021.03.02-11.04.22:234][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_2' was renamed to 'pasted__DP_fridge_23' 
+[2021.03.02-11.04.22:234][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_5' was renamed to 'pasted__DP_fridge_54' 
+[2021.03.02-11.04.22:234][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_4' was renamed to 'pasted__DP_fridge_45' 
+[2021.03.02-11.04.22:234][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_9' was renamed to 'pasted__DP_fridge_96' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_22' was renamed to 'pasted__DP_fridge_227' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_6' was renamed to 'pasted__DP_fridge_68' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_2' was renamed to 'pasted__DP_fridge_29' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_5' was renamed to 'pasted__DP_fridge_510' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_4' was renamed to 'pasted__DP_fridge_411' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_9' was renamed to 'pasted__DP_fridge_912' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_22' was renamed to 'pasted__DP_fridge_2213' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_6' was renamed to 'pasted__DP_fridge_614' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_2' was renamed to 'pasted__DP_fridge_215' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_5' was renamed to 'pasted__DP_fridge_516' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_4' was renamed to 'pasted__DP_fridge_417' 
+[2021.03.02-11.04.22:235][429]FBXImport: FBX File Loading: Found name clash, node 'pasted__DP_fridge_9' was renamed to 'pasted__DP_fridge_918' 
+[2021.03.02-11.04.22:340][430]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_01.fbx)
+[2021.03.02-11.04.22:356][430]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_01.fbx
+[2021.03.02-11.04.22:369][430]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.24:124][430]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.24:182][430]LogStaticMesh: Building static mesh Painting_01...
+[2021.03.02-11.04.24:185][430]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Meshes/Mosquito_Lair/Painting_01.Painting_01
+[2021.03.02-11.04.24:250][431]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_02.fbx)
+[2021.03.02-11.04.24:266][431]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_02.fbx
+[2021.03.02-11.04.24:280][431]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.27:051][431]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.27:109][431]LogStaticMesh: Building static mesh Painting_02...
+[2021.03.02-11.04.27:111][431]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Meshes/Mosquito_Lair/Painting_02.Painting_02
+[2021.03.02-11.04.27:170][432]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_03.fbx)
+[2021.03.02-11.04.27:196][432]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_03.fbx
+[2021.03.02-11.04.27:210][432]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.28:441][432]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.28:501][432]LogStaticMesh: Building static mesh Painting_03...
+[2021.03.02-11.04.28:503][432]LogStaticMesh: Built static mesh [0.00s] /Game/Art/Meshes/Mosquito_Lair/Painting_03.Painting_03
+[2021.03.02-11.04.28:553][433]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/pipes_BL.fbx)
+[2021.03.02-11.04.28:578][433]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/pipes_BL.fbx
+[2021.03.02-11.04.28:622][433]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.29:300][433]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.30:936][433]LogStaticMesh: Building static mesh pipes_BL...
+[2021.03.02-11.04.31:733][433]LogStaticMesh: Built static mesh [0.80s] /Game/Art/Meshes/Mosquito_Lair/pipes_BL.pipes_BL
+[2021.03.02-11.04.32:105][434]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/tables_BL.fbx)
+[2021.03.02-11.04.32:136][434]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/tables_BL.fbx
+[2021.03.02-11.04.32:183][434]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.33:170][434]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.34:605][434]LogStaticMesh: Building static mesh tables_BL...
+[2021.03.02-11.04.35:268][434]LogStaticMesh: Built static mesh [0.66s] /Game/Art/Meshes/Mosquito_Lair/tables_BL.tables_BL
+[2021.03.02-11.04.35:607][435]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/wall_BL.fbx)
+[2021.03.02-11.04.35:623][435]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/wall_BL.fbx
+[2021.03.02-11.04.35:637][435]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.37:919][435]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.38:046][435]LogStaticMesh: Building static mesh wall_BL...
+[2021.03.02-11.04.38:088][435]LogStaticMesh: Built static mesh [0.04s] /Game/Art/Meshes/Mosquito_Lair/wall_BL.wall_BL
+[2021.03.02-11.04.38:159][436]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/_BL.fbx)
+[2021.03.02-11.04.38:179][436]LogFbx: Loading FBX Scene from D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/_BL.fbx
+[2021.03.02-11.04.38:192][436]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.02-11.04.39:849][436]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.02-11.04.39:911][436]LogStaticMesh: Building static mesh _BL...
+[2021.03.02-11.04.39:919][436]LogStaticMesh: Built static mesh [0.01s] /Game/Art/Meshes/Mosquito_Lair/_BL._BL
+[2021.03.02-11.04.40:335][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_BearRug_BaseColor_UV_v017F246889409FDA2484EB5A9F029AB64B.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BearRug_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.40:670][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_BloodMachine_BaseColor_UV_B7FC9D064C7DFDAF28AB7B936C2B8C6F.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BloodMachine_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.40:786][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_BloodTankGlass_BaseColor_U8D3B82654ED366D07FE515BF39C25F98.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BloodTankGlass_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.41:011][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_BloodTank_BaseColor_UV_v017FE1398C4115493C79F36B96E7818CDA.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BloodTank_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.41:184][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_BrokenLadder_BaseColor_UV_A08F6C4B46996538425595A9183D4B9F.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_BrokenLadder_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.41:352][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_ChairBig_BaseColor_UV_v015F715BF942E863638C2A92BFB2733BDF.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_ChairBig_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.41:520][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_Chair_small_BaseColor_UV_vC077FF324D1DB298019556995DD93D25.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Chair_small_BaseColor_UV_v_001.uasset'
+[2021.03.02-11.04.41:797][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_Closet_BaseColor_UV_v019441F5BE4001A1D4C5FC9FAD0E9604C0.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Closet_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.42:200][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_Floor_BaseColor_UV_v01DA98C1194293F09CB0099FA36235BF99.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Floor_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.42:454][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_Painting_001_BaseColor_UV_2C8819E144F46DF273FC338F109757A3.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Painting_001_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.42:657][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_Painting_002_BaseColor_UV_EA808EE6402385C2B6BB3AA678B4E88E.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.42:892][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_Painting_002_BaseColor_UV_C711EE2F460DBB94B8C9068990F24499.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v03.uasset'
+[2021.03.02-11.04.43:103][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_Pipes_BaseColor_UV_v01D106AE994D98B3E1497357B757DCE91E.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_Pipes_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.43:229][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_TableSmall_BaseColor_UV_v0EA9A5EA4456F56D4D3DA19BBFB7E0B60.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_TableSmall_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.43:558][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_WallBackBlock_BaseColor_UVBBC7A29D47466BDA7FDD7EA4469D2FC4.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallBackBlock_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.43:695][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_WallBackBlock_Height_UV_v0B11F14AE4D64E6440B7F0D8192CF8F24.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallBackBlock_Height_UV_v01.uasset'
+[2021.03.02-11.04.44:569][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_WallBack_BaseColor_UV_v01490D53BB489383BFB5B099BD13F29ABA.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallBack_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.45:049][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_ML_WallConstruction_BaseColor20F6B41E49325C13C0037A9476C86270.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Textures/BA_ML_WallConstruction_BaseColor_UV_v01.uasset'
+[2021.03.02-11.04.45:122][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/bathtub_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bathtub_BL.uasset" SILENT=true
+[2021.03.02-11.04.45:253][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bathtub_BL1CCE7A834A23E8DEF46D28BAFE869668.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bathtub_BL.uasset'
+[2021.03.02-11.04.46:157][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodMachine_BLBF85BE6B4172BC1AE94BE289C626A8A6.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodMachine_BL.uasset'
+[2021.03.02-11.04.46:231][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodTankTable_BL065DADAB425899E97F4FD4A430617E6C.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.uasset'
+[2021.03.02-11.04.46:311][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodTank_BL6D558CEB4807564B544C3F9615BE9F6D.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTank_BL.uasset'
+[2021.03.02-11.04.46:330][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/carts_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/carts_BL.uasset" SILENT=true
+[2021.03.02-11.04.46:460][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/carts_BLC42EA24542AEC775A4D24B8018D2C6C9.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/carts_BL.uasset'
+[2021.03.02-11.04.46:822][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/container_BL5B5CCD4540569A1229D3A9B0AEC95DA2.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/container_BL.uasset'
+[2021.03.02-11.04.46:839][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/door_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/door_BL.uasset" SILENT=true
+[2021.03.02-11.04.46:905][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/door_BL755FEB784EBF52FA6C6D39AA73C5BD36.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/door_BL.uasset'
+[2021.03.02-11.04.46:923][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/fridges_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/fridges_BL.uasset" SILENT=true
+[2021.03.02-11.04.46:959][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/fridges_BL76E60AA846D1FC5DD70E25A2F2D170C4.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/fridges_BL.uasset'
+[2021.03.02-11.04.47:004][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Painting_016B1639F04210CF8EB91F8587DCF7B186.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_01.uasset'
+[2021.03.02-11.04.47:084][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Painting_0247099A1B46A6EF7884CBADA13A09DE31.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_02.uasset'
+[2021.03.02-11.04.47:130][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Painting_03ACD4BC9F45E7906B367FA19FC9FFCB33.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_03.uasset'
+[2021.03.02-11.04.47:162][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/pipes_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/pipes_BL.uasset" SILENT=true
+[2021.03.02-11.04.47:252][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/pipes_BL2177407747F7F5B1FDF4D19F320664EA.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/pipes_BL.uasset'
+[2021.03.02-11.04.47:282][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/tables_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/tables_BL.uasset" SILENT=true
+[2021.03.02-11.04.47:377][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/tables_BL7310BACA4017D4FCA9618B9432C6DD8F.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/tables_BL.uasset'
+[2021.03.02-11.04.47:446][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/wall_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/wall_BL.uasset" SILENT=true
+[2021.03.02-11.04.47:476][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/wall_BL0CEDA5BC4996E54DBC2E37BE30D061EE.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/wall_BL.uasset'
+[2021.03.02-11.04.47:506][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/_BL.uasset" SILENT=true
+[2021.03.02-11.04.47:530][437]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/_BL38303E014CAAFB253977EFB90DA51C6C.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/_BL.uasset'
+[2021.03.02-11.04.47:592][438]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_WallConstruction_BaseColor_UV_v01.BA_ML_WallConstruction_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_WallBack_BaseColor_UV_v01.BA_ML_WallBack_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_WallBackBlock_Height_UV_v01.BA_ML_WallBackBlock_Height_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_WallBackBlock_BaseColor_UV_v01.BA_ML_WallBackBlock_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_TableSmall_BaseColor_UV_v01.BA_ML_TableSmall_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_Pipes_BaseColor_UV_v01.BA_ML_Pipes_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v03.BA_ML_Painting_002_BaseColor_UV_v03
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v01.BA_ML_Painting_002_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_Painting_001_BaseColor_UV_v01.BA_ML_Painting_001_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_Floor_BaseColor_UV_v01.BA_ML_Floor_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_Closet_BaseColor_UV_v01.BA_ML_Closet_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_Chair_small_BaseColor_UV_v_001.BA_ML_Chair_small_BaseColor_UV_v_001
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_ChairBig_BaseColor_UV_v01.BA_ML_ChairBig_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_BrokenLadder_BaseColor_UV_v01.BA_ML_BrokenLadder_BaseColor_UV_v01
+[2021.03.02-11.04.47:592][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_BloodTank_BaseColor_UV_v01.BA_ML_BloodTank_BaseColor_UV_v01
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_BloodTankGlass_BaseColor_UV_v01.BA_ML_BloodTankGlass_BaseColor_UV_v01
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_BloodMachine_BaseColor_UV_v01.BA_ML_BloodMachine_BaseColor_UV_v01
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating SkeletalMesh /Game/Art/Meshes/Mosquito_Lair/container_BL.container_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/carts_BL.carts_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodTank_BL.bloodTank_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.bloodTankTable_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodMachine_BL.bloodMachine_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bathtub_BL.bathtub_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating Texture2D /Game/Art/Textures/BA_ML_BearRug_BaseColor_UV_v01.BA_ML_BearRug_BaseColor_UV_v01
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/door_BL.door_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/fridges_BL.fridges_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Painting_01.Painting_01
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Painting_02.Painting_02
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Painting_03.Painting_03
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/pipes_BL.pipes_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/tables_BL.tables_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/wall_BL.wall_BL
+[2021.03.02-11.04.47:593][438]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/_BL._BL
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_BearRug_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_BloodMachine_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_BloodTankGlass_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_BloodTank_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_BrokenLadder_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_ChairBig_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_Chair_small_BaseColor_UV_v_001.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_Closet_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_Floor_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_Painting_001_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_Painting_002_BaseColor_UV_v03.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_Pipes_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_TableSmall_BaseColor_UV_v01.
+[2021.03.02-11.04.50:558][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_WallBackBlock_BaseColor_UV_v01.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_WallBackBlock_Height_UV_v01.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_WallBack_BaseColor_UV_v01.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Textures/BA_ML_WallConstruction_BaseColor_UV_v01.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/bathtub_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/bloodMachine_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/bloodTank_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/carts_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/container_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/door_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/fridges_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/Painting_01.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/Painting_02.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/Painting_03.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/pipes_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/tables_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/wall_BL.
+[2021.03.02-11.04.50:559][661]AssetReimport: Importing new asset /Game/Art/Meshes/Mosquito_Lair/_BL.
+[2021.03.02-11.05.15:116][824]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodTank_BL.bloodTank_BL
+[2021.03.02-11.05.16:526][824]LogSlate: Took 0.002736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.02-11.05.35:501][745]LogSlate: Window 'bloodTank_BL' being destroyed
+[2021.03.02-11.05.35:522][745]LogSlate: Window 'bloodTank_BL' being destroyed
+[2021.03.02-11.05.35:526][745]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-11.05.35:526][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-11.05.39:256][871]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.bloodTankTable_BL
+[2021.03.02-11.05.56:168][647]LogSlate: Window 'bloodTankTable_BL' being destroyed
+[2021.03.02-11.05.56:189][647]LogSlate: Window 'bloodTankTable_BL' being destroyed
+[2021.03.02-11.05.56:197][647]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-11.05.56:197][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-11.05.58:222][696]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/Mosquito_Lair/Closet.Closet
+[2021.03.02-11.06.02:913][875]LogSlate: Window 'Closet' being destroyed
+[2021.03.02-11.06.02:933][875]LogSlate: Window 'Closet' being destroyed
+[2021.03.02-11.06.02:941][875]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-11.06.02:941][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-11.06.05:193][949]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/Mosquito_Lair/carts_BL.carts_BL
+[2021.03.02-11.06.15:843][422]LogSlate: Window 'carts_BL' being destroyed
+[2021.03.02-11.06.15:864][422]LogSlate: Window 'carts_BL' being destroyed
+[2021.03.02-11.06.15:871][422]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-11.06.15:871][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-11.06.20:624][572]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Art/Meshes/Mosquito_Lair/fridges_BL.fridges_BL
+[2021.03.02-11.08.28:086][495]LogSlate: Window 'fridges_BL' being destroyed
+[2021.03.02-11.08.28:113][495]LogSlate: Window 'fridges_BL' being destroyed
+[2021.03.02-11.08.28:121][495]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-11.08.28:121][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-11.08.30:025][630]LogSlate: Window 'Message Log' being destroyed
+[2021.03.02-11.08.30:048][630]LogSlate: Window 'Message Log' being destroyed
+[2021.03.02-11.09.30:472][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.03.02-11.09.30:534][880]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Minimal_Default_Auto1904138EF474B425EB4266887838A5087.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2021.03.02-11.09.30:538][880]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.094
+[2021.03.02-11.09.30:538][880]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2021.03.02-11.09.30:540][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Art/Meshes/Mosquito_Lair/container_BL_Skeleton] ([1] browsable assets)...
+[2021.03.02-11.09.30:540][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Meshes/Mosquito_Lair/container_BL_Skeleton]
+[2021.03.02-11.09.30:545][880]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/container_BL_Skeleton_Auto1C68AAB834E799359BBCF85BEA54B23BB.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Autosaves/Game/Art/Meshes/Mosquito_Lair/container_BL_Skeleton_Auto1.uasset'
+[2021.03.02-11.09.30:546][880]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Meshes/Mosquito_Lair/container_BL_PhysicsAsset] ([1] browsable assets)...
+[2021.03.02-11.09.30:577][880]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Art/Meshes/Mosquito_Lair/container_BL_PhysicsAsset.container_BL_PhysicsAsset]
+[2021.03.02-11.09.30:577][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Meshes/Mosquito_Lair/container_BL_PhysicsAsset]
+[2021.03.02-11.09.30:592][880]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/container_BL_PhysicsAsset_Auto1BFDEF92B427395C15F0BF389FEFA17F1.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Autosaves/Game/Art/Meshes/Mosquito_Lair/container_BL_PhysicsAsset_Auto1.uasset'
+[2021.03.02-11.09.30:593][880]LogFileHelpers: Auto-saving content packages took 0.055
+[2021.03.02-11.11.28:846][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/bloodMachine_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodMachine_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.28:867][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodMachine_BL_MTLC455EE754AC0ECE9E4B96E947E9161B9.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodMachine_BL_MTL.uasset'
+[2021.03.02-11.11.28:899][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/bloodMachine_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodMachine_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.28:920][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodMachine_ML_MTL092F8F774E3544205CBD589AAED2BE33.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodMachine_ML_MTL.uasset'
+[2021.03.02-11.11.28:952][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/bloodTank_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodTank_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.28:972][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodTank_BL_MTL50868B7143EABB2B36BA0C9AACE862FC.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodTank_BL_MTL.uasset'
+[2021.03.02-11.11.29:006][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/bloodTank_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodTank_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:020][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodTank_ML_MTLEFC5BE0F4D5D926B5B9456988AC15ADE.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodTank_ML_MTL.uasset'
+[2021.03.02-11.11.29:052][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/bloodTankTable_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodTankTable_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:065][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodTankTable_BL_MTL953E75B64AC95B878F49A38BA80A5EBD.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bloodTankTable_BL_MTL.uasset'
+[2021.03.02-11.11.29:096][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/brokenLadder_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/brokenLadder_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:114][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/brokenLadder_ML_MTLBF83F9994CA3735E6F4FB6A1372E2CE5.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/brokenLadder_ML_MTL.uasset'
+[2021.03.02-11.11.29:136][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/cart_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/cart_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:149][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/cart_BL_MTLF7828B3A4E38B00315D793A158C55AED.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/cart_BL_MTL.uasset'
+[2021.03.02-11.11.29:171][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/chairs_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/chairs_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:184][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/chairs_ML_MTL76FFF81D459438F7143356BA6F4EB0DB.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/chairs_ML_MTL.uasset'
+[2021.03.02-11.11.29:205][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/closet_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/closet_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:226][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/closet_ML_MTL120A24C646895A33C422BEA34C7CA3B4.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/closet_ML_MTL.uasset'
+[2021.03.02-11.11.29:249][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/container_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/container_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:275][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/container_BL_MTL5582F10E48AD752AFD2B05A3603D6087.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/container_BL_MTL.uasset'
+[2021.03.02-11.11.29:306][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/door_BL_MTL1" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/door_BL_MTL1.uasset" SILENT=true
+[2021.03.02-11.11.29:350][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/door_BL_MTL1B5DEE6944E0F00AD07396DA9A07F8B9E.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/door_BL_MTL1.uasset'
+[2021.03.02-11.11.29:384][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/floor_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/floor_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:405][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/floor_BL_MTL9876B0A24E84FDFFBB5515BB8326B15E.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/floor_BL_MTL.uasset'
+[2021.03.02-11.11.29:438][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/floor_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/floor_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:453][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/floor_ML_MTLE795FB4448DBDCEB78FFF78BF84B3DF1.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/floor_ML_MTL.uasset'
+[2021.03.02-11.11.29:492][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/floorWater_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/floorWater_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:512][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/floorWater_ML_MTLDF1311E6416931FAA776CBAFB92A1DC7.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/floorWater_ML_MTL.uasset'
+[2021.03.02-11.11.29:535][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/fridge_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/fridge_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:548][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/fridge_BL_MTLA5506F14485366EF073BC49D27A8825B.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/fridge_BL_MTL.uasset'
+[2021.03.02-11.11.29:580][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/fridgeGlass_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/fridgeGlass_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:593][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/fridgeGlass_BL_MTLEE86783948092163C10C64927DF3C402.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/fridgeGlass_BL_MTL.uasset'
+[2021.03.02-11.11.29:613][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/painting_001_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/painting_001_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:626][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/painting_001_ML_MTL9FA599DF4443F4B0BA79BEAD074E0377.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/painting_001_ML_MTL.uasset'
+[2021.03.02-11.11.29:645][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/painting_002_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/painting_002_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:659][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/painting_002_ML_MTLE56E1AF548D0E87FF03A0A9C87AA2FE8.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/painting_002_ML_MTL.uasset'
+[2021.03.02-11.11.29:686][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/painting_003_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/painting_003_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:703][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/painting_003_ML_MTLFE50083647AA75CA234D6297D129C4C5.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/painting_003_ML_MTL.uasset'
+[2021.03.02-11.11.29:732][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/pipes_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/pipes_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:753][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/pipes_BL_MTL4BD73BF84983FF592ECD3FB01D08474A.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/pipes_BL_MTL.uasset'
+[2021.03.02-11.11.29:783][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/pipes_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/pipes_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:795][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/pipes_ML_MTLEE5361B04530458F7CC91BAAB32061AF.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/pipes_ML_MTL.uasset'
+[2021.03.02-11.11.29:827][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/pipesBlood_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/pipesBlood_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:839][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/pipesBlood_BL_MTLA60F0234428C5604D6467A98655F2533.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/pipesBlood_BL_MTL.uasset'
+[2021.03.02-11.11.29:870][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/tables_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/tables_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:884][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/tables_BL_MTL1D80DFE1428305F91483E3B1DCF31F41.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/tables_BL_MTL.uasset'
+[2021.03.02-11.11.29:921][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/tables_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/tables_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:933][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/tables_ML_MTL31D8B4C54EBE4B8AA5897CBAC814A524.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/tables_ML_MTL.uasset'
+[2021.03.02-11.11.29:962][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/vialsBlood_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/vialsBlood_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.29:991][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/vialsBlood_BL_MTL33DE1355418C997EFF5CA8AEFCFFC8EC.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/vialsBlood_BL_MTL.uasset'
+[2021.03.02-11.11.30:016][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/wall_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/wall_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.30:029][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/wall_BL_MTL2581EFB64E384B1F20EF22BEDD3CCC76.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/wall_BL_MTL.uasset'
+[2021.03.02-11.11.30:054][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/wallBack_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/wallBack_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.30:067][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/wallBack_ML_MTL544D4CE148F4CE7C93F8739548B9EEFA.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/wallBack_ML_MTL.uasset'
+[2021.03.02-11.11.30:092][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/wallBackBlock_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/wallBackBlock_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.30:106][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/wallBackBlock_ML_MTLBA3B5BBE40C234996AAD598A22987A93.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/wallBackBlock_ML_MTL.uasset'
+[2021.03.02-11.11.30:144][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/wallConstruction_ML_MTL1C4953E64D6942DE3BD9F289A67696B5.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/wallConstruction_ML_MTL.uasset'
+[2021.03.02-11.11.30:173][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/bearRug_ML_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bearRug_ML_MTL.uasset" SILENT=true
+[2021.03.02-11.11.30:186][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bearRug_ML_MTL6BFBB4CB4E096E0EB98B09A3754AB089.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bearRug_ML_MTL.uasset'
+[2021.03.02-11.11.30:209][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Materials/bathtub_BL_MTL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bathtub_BL_MTL.uasset" SILENT=true
+[2021.03.02-11.11.30:220][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bathtub_BL_MTL4FB258BF401ADD511702A6B482385D58.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/bathtub_BL_MTL.uasset'
+[2021.03.02-11.11.30:734][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.03.02-11.11.30:751][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.02-11.11.30:762][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.02-11.11.30:772][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:782][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:792][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:802][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:812][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:822][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:832][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:842][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:852][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:862][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.02-11.11.30:872][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:882][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:892][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:902][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.02-11.11.30:912][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:922][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:934][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.02-11.11.30:944][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.02-11.11.30:954][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:964][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:974][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.30:983][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.02-11.11.30:994][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.02-11.11.31:004][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.02-11.11.31:014][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.02-11.11.31:024][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.02-11.11.31:034][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.11.31:044][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.03.02-11.11.31:070][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.03.02-11.11.31:080][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.03.02-11.11.31:985][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodMachine_BL35AA0B384DA7BF225DBDDE918598E048.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodMachine_BL.uasset'
+[2021.03.02-11.11.32:105][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Bloodmachine639FC5FE4A9FDAF09E782681C7141E3A.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Bloodmachine.uasset'
+[2021.03.02-11.11.32:216][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodTank_BL03B932274E6960138086F89EAAC43C0D.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTank_BL.uasset'
+[2021.03.02-11.11.32:248][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Blood_Tank" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Blood_Tank.uasset" SILENT=true
+[2021.03.02-11.11.32:365][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Blood_Tank39AAA3FE44BE3E1AFE8F5B94415F8C28.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Blood_Tank.uasset'
+[2021.03.02-11.11.32:436][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bloodTankTable_BL05C2330847D41CABB716AE9CA8A1B730.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.uasset'
+[2021.03.02-11.11.32:500][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Broken_Ladder64E0A6164A99B7C171CF07A53187A7C2.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Broken_Ladder.uasset'
+[2021.03.02-11.11.32:502][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/carts_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/carts_BL.uasset" SILENT=true
+[2021.03.02-11.11.32:620][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/carts_BLD84733C24FD35540F6D25B81E04C596A.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/carts_BL.uasset'
+[2021.03.02-11.11.32:639][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Chairs" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Chairs.uasset" SILENT=true
+[2021.03.02-11.11.32:710][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Chairs45F2460949E7CDDE867984B3C777F82C.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Chairs.uasset'
+[2021.03.02-11.11.32:740][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Closet" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Closet.uasset" SILENT=true
+[2021.03.02-11.11.32:776][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Closet11D804224587C59F77989ABC4DA33DBE.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Closet.uasset'
+[2021.03.02-11.11.33:121][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/container_BL030A0AB0479ED4C7D05774AB1C9CB280.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/container_BL.uasset'
+[2021.03.02-11.11.33:127][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/door_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/door_BL.uasset" SILENT=true
+[2021.03.02-11.11.33:203][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/door_BLC396B0B94D84E1F52621FFB37398A73E.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/door_BL.uasset'
+[2021.03.02-11.11.33:206][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/_BL.uasset" SILENT=true
+[2021.03.02-11.11.33:213][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/_BL2D66DD3A465C452B7522C58430083433.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/_BL.uasset'
+[2021.03.02-11.11.33:243][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Floor" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Floor.uasset" SILENT=true
+[2021.03.02-11.11.33:279][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Floor04DD52CD4EFEEA8E0DA0A5BB427351AF.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Floor.uasset'
+[2021.03.02-11.11.33:330][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Floor_WaterB3F55FDD4D15B4719FAA82A3DE2E0995.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Floor_Water.uasset'
+[2021.03.02-11.11.33:333][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/fridges_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/fridges_BL.uasset" SILENT=true
+[2021.03.02-11.11.33:389][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/fridges_BL3C5B13384D66D8C69278AAB4EB28A73C.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/fridges_BL.uasset'
+[2021.03.02-11.11.33:405][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Painting_01D45F3BDC4BAA3917FECD1C997FDD49D5.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_01.uasset'
+[2021.03.02-11.11.33:419][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Painting_02146186084FF314AD37DC7280279BAC94.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_02.uasset'
+[2021.03.02-11.11.33:433][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Painting_03A52985E14E787360075F7BBFB057DBE7.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Painting_03.uasset'
+[2021.03.02-11.11.33:486][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/pipes_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/pipes_BL.uasset" SILENT=true
+[2021.03.02-11.11.33:564][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/pipes_BL491C4A8D436188F1965222975DD3E941.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/pipes_BL.uasset'
+[2021.03.02-11.11.33:583][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Pipes" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Pipes.uasset" SILENT=true
+[2021.03.02-11.11.33:666][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Pipes8FCAA83B4C815E3E723EF08D402C7EAC.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Pipes.uasset'
+[2021.03.02-11.11.33:669][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/tables_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/tables_BL.uasset" SILENT=true
+[2021.03.02-11.11.33:711][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/tables_BLB998ED5A4155C1064A9319B7A3115BFD.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/tables_BL.uasset'
+[2021.03.02-11.11.33:739][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Tables" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Tables.uasset" SILENT=true
+[2021.03.02-11.11.33:763][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Tables6370FD8C4F41027991591886CA8208F8.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Tables.uasset'
+[2021.03.02-11.11.33:765][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/wall_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/wall_BL.uasset" SILENT=true
+[2021.03.02-11.11.33:780][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/wall_BLAB5B6A3548246C0E05C1349461F8A2A2.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/wall_BL.uasset'
+[2021.03.02-11.11.33:810][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Wall_Back" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Wall_Back.uasset" SILENT=true
+[2021.03.02-11.11.33:845][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Wall_BackA55C46EA46A7F3AE83103799A7F9B548.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Wall_Back.uasset'
+[2021.03.02-11.11.33:895][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Wall_Back_BlockBEA9C9394ADDB3E3F2251EB5509538DA.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Wall_Back_Block.uasset'
+[2021.03.02-11.11.34:025][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Wall_ConstructionC21A4E98489E8BD489E481A77A15DCAB.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Wall_Construction.uasset'
+[2021.03.02-11.11.34:046][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/Bear_Rug" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Bear_Rug.uasset" SILENT=true
+[2021.03.02-11.11.34:119][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Bear_Rug879FFE16410FAC50CC0B598CB4DD5796.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/Bear_Rug.uasset'
+[2021.03.02-11.11.34:124][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Meshes/Mosquito_Lair/bathtub_BL" FILE="D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bathtub_BL.uasset" SILENT=true
+[2021.03.02-11.11.34:196][479]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/bathtub_BL19D33814454B03CF26509BAC08A48C10.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Meshes/Mosquito_Lair/bathtub_BL.uasset'
+[2021.03.02-11.11.34:366][479]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/vialsBlood_BL_MTL.vialsBlood_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating SkeletalMesh /Game/Art/Meshes/Mosquito_Lair/container_BL.container_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/cart_BL_MTL.cart_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/carts_BL.carts_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/bloodTank_BL_MTL.bloodTank_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodTank_BL.bloodTank_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/bloodTankTable_BL_MTL.bloodTankTable_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodTankTable_BL.bloodTankTable_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/bloodMachine_BL_MTL.bloodMachine_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bloodMachine_BL.bloodMachine_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/bathtub_BL_MTL.bathtub_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/bathtub_BL.bathtub_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/container_BL_MTL.container_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/door_BL.door_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/door_BL_MTL1.door_BL_MTL1
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/fridges_BL.fridges_BL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/fridge_BL_MTL.fridge_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/fridgeGlass_BL_MTL.fridgeGlass_BL_MTL
+[2021.03.02-11.11.34:367][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Painting_01.Painting_01
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/painting_001_ML_MTL.painting_001_ML_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Painting_02.Painting_02
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/painting_002_ML_MTL.painting_002_ML_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Painting_03.Painting_03
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/painting_003_ML_MTL.painting_003_ML_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/pipes_BL.pipes_BL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/pipesBlood_BL_MTL.pipesBlood_BL_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/pipes_BL_MTL.pipes_BL_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/tables_BL.tables_BL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/tables_BL_MTL.tables_BL_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/wall_BL.wall_BL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/wall_BL_MTL.wall_BL_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/_BL._BL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/floor_BL_MTL.floor_BL_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/closet_ML_MTL.closet_ML_MTL
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Closet.Closet
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Bear_Rug.Bear_Rug
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Wall_Construction.Wall_Construction
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Wall_Back_Block.Wall_Back_Block
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Wall_Back.Wall_Back
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Tables.Tables
+[2021.03.02-11.11.34:368][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Pipes.Pipes
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Floor_Water.Floor_Water
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Floor.Floor
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Chairs.Chairs
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Broken_Ladder.Broken_Ladder
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Blood_Tank.Blood_Tank
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating StaticMesh /Game/Art/Meshes/Mosquito_Lair/Bloodmachine.Bloodmachine
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/bearRug_ML_MTL.bearRug_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/wallConstruction_ML_MTL.wallConstruction_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/wallBackBlock_ML_MTL.wallBackBlock_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/wallBack_ML_MTL.wallBack_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/tables_ML_MTL.tables_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/pipes_ML_MTL.pipes_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/floorWater_ML_MTL.floorWater_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/floor_ML_MTL.floor_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/chairs_ML_MTL.chairs_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/brokenLadder_ML_MTL.brokenLadder_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/bloodTank_ML_MTL.bloodTank_ML_MTL
+[2021.03.02-11.11.34:369][479]LogContentValidation: Display: Validating Material /Game/Art/Materials/bloodMachine_ML_MTL.bloodMachine_ML_MTL
+[2021.03.02-11.12.00:800][572]LogContentBrowser: Attempting asset rename: BA_CelShader_Character_Main -> 00_BA_CelShader_Character_Main
+[2021.03.02-11.12.00:995][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/00_BA_CelShader_Character_Main95233D8941A8EC3D0F25538C35F8D2EF.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/00_BA_CelShader_Character_Main.uasset'
+[2021.03.02-11.12.01:154][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.03.02-11.12.01:193][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.03.02-11.12.01:206][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.02-11.12.01:279][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Pink_Face62B2A05A45FA4E4D2B1ADD9F963BAD9D.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Pink_Face_Inst.uasset'
+[2021.03.02-11.12.01:306][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Pink_BodyE4E73D8140988AF664B41693829D6DA5.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Pink_Body_Inst.uasset'
+[2021.03.02-11.12.01:334][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Yellow_Fa6FCCAAA14DF725372792C9891ED69298.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Yellow_Face_Inst.uasset'
+[2021.03.02-11.12.01:382][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Yellow_BoA24CC6CC4E409375516697AD945A32AF.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Yellow_Body_Inst.uasset'
+[2021.03.02-11.12.01:433][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Purple_FaEDEA0504440D4724276D2D8B38E9F4AE.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Purple_Face_Inst.uasset'
+[2021.03.02-11.12.01:482][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Purple_BoA9F9F7824E5993CBC00EE8ADE868B5F7.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Purple_Body_Inst.uasset'
+[2021.03.02-11.12.01:522][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Pink_Hair624B08F3456ECCA52BF266AC9BEEC16B.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Pink_Hair_Inst.uasset'
+[2021.03.02-11.12.01:561][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Green_SkiA77778AF47197AF04138E598AF8CAA83.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Green_Skin_Inst.uasset'
+[2021.03.02-11.12.01:596][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Green_BodC1FE193147E69C2C6CF46CAAD220E204.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Green_Body_Inst.uasset'
+[2021.03.02-11.12.01:632][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Blue_Face1916B96A4280169D12D1A99D40391988.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Blue_Face_Inst.uasset'
+[2021.03.02-11.12.01:665][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelShader_Character_Blue_Body00E1811C4C5F113DCED753812C044AA9.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelShader_Character_Blue_Body_Inst.uasset'
+[2021.03.02-11.12.01:670][572]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/BA_CelSahder_Character_MainC2F4628D4DD4E18B64470188C9DC3CAC.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/BA_CelSahder_Character_Main.uasset'
+[2021.03.02-11.12.01:741][572]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/00_BA_CelShader_Character_Main.00_BA_CelShader_Character_Main
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Blue_Body_Inst.BA_CelShader_Character_Blue_Body_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Blue_Face_Inst.BA_CelShader_Character_Blue_Face_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Green_Body_Inst.BA_CelShader_Character_Green_Body_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating ObjectRedirector /Game/Art/Materials/BA_CelSahder_Character_Main.BA_CelSahder_Character_Main
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Green_Skin_Inst.BA_CelShader_Character_Green_Skin_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Pink_Body_Inst.BA_CelShader_Character_Pink_Body_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Pink_Face_Inst.BA_CelShader_Character_Pink_Face_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Pink_Hair_Inst.BA_CelShader_Character_Pink_Hair_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Purple_Body_Inst.BA_CelShader_Character_Purple_Body_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Purple_Face_Inst.BA_CelShader_Character_Purple_Face_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Yellow_Body_Inst.BA_CelShader_Character_Yellow_Body_Inst
+[2021.03.02-11.12.01:741][572]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/BA_CelShader_Character_Yellow_Face_Inst.BA_CelShader_Character_Yellow_Face_Inst
+[2021.03.02-11.12.04:361][663]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Art/Materials/00_BA_CelShader_Character_Main.00_BA_CelShader_Character_Main
+[2021.03.02-11.12.04:363][663]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 3 classes and 0 folders.
+[2021.03.02-11.12.16:151][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.03.02-11.12.16:161][369]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.02-11.12.16:730][369]LogShaderCompilers: Display: Worker (1/37): shaders left to compile 2
+[2021.03.02-11.12.16:730][369]LogShaderCompilers: Display: Worker (2/37): shaders left to compile 1
+[2021.03.02-11.12.16:804][369]TextureStreamingBuild: Display: Compiling optional shaders took 0.650 seconds.
+[2021.03.02-11.12.16:826][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.02-11.12.16:850][369]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/00_BA_CelShader_Character_MainF73405CD4B448B82C7919D86C776A611.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/00_BA_CelShader_Character_Main.uasset'
+[2021.03.02-11.12.16:928][369]AssetCheck: New page: Asset Save: 00_BA_CelShader_Character_Main
+[2021.03.02-11.12.16:928][369]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/00_BA_CelShader_Character_Main.00_BA_CelShader_Character_Main
+[2021.03.02-11.14.36:760][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.02-11.14.36:767][166]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.02-11.14.37:332][166]LogShaderCompilers: Display: Worker (1/37): shaders left to compile 2
+[2021.03.02-11.14.37:332][166]LogShaderCompilers: Display: Worker (2/37): shaders left to compile 1
+[2021.03.02-11.14.37:394][166]TextureStreamingBuild: Display: Compiling optional shaders took 0.628 seconds.
+[2021.03.02-11.14.37:411][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.03.02-11.14.37:432][166]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/00_BA_CelShader_Character_Main93E2FD4B4119891DB62EB7BC93D85E2E.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/Art/Materials/00_BA_CelShader_Character_Main.uasset'
+[2021.03.02-11.14.37:508][166]AssetCheck: New page: Asset Save: 00_BA_CelShader_Character_Main
+[2021.03.02-11.14.37:508][166]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Art/Materials/00_BA_CelShader_Character_Main.00_BA_CelShader_Character_Main
+[2021.03.02-11.16.56:910][495]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.02-11.17.07:824][243]Cmd: TRANSACTION UNDO
+[2021.03.02-11.17.07:824][243]LogEditorTransaction: Undo Edit Base Emissive Output Intensity
+[2021.03.02-11.17.09:550][244]Cmd: TRANSACTION UNDO
+[2021.03.02-11.17.09:550][244]LogEditorTransaction: Undo Edit BaseColor
+[2021.03.02-11.17.21:968][106]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.02-11.17.53:068][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.02-11.17.53:115][164]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Minimal_Default8ED1685C4A113F0FF7865D83149B586F.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.03.02-11.17.53:294][164]LogSavePackage: Moving 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Saved/Minimal_Default_BuiltDataEBACCB584923563BE61BA08EA17F5E44.tmp' to 'D:/ArtCenter/Bad Apple/Unreal/Unreal_Projects/Mosquito_Layer/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.03.02-11.17.53:344][164]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-11.17.53:344][164]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.03.02-11.17.53:344][164]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.03.02-11.19.55:802][276]Cmd: TRANSACTION UNDO
+[2021.03.02-11.19.55:802][276]LogEditorTransaction: Undo Edit Skylight Intensity Multiplier
+[2021.03.02-11.19.56:696][303]Cmd: TRANSACTION UNDO
+[2021.03.02-11.19.56:696][303]LogEditorTransaction: Undo Custom Reset to Default
+[2021.03.02-11.19.57:773][337]Cmd: TRANSACTION UNDO
+[2021.03.02-11.19.57:773][337]LogEditorTransaction: Undo Edit Skylight Intensity Multiplier
+[2021.03.02-11.19.59:097][337]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.310 s
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: 
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: Ensure condition failed: Lhs.CurrentNum == Lhs.InitialNum [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 216]
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: Array has changed during ranged-for iteration!
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: Stack: 
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa3062d2a9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2f65d40e UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2f65d4fe UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2f6c65e9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2f6cc0f8 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2f64b19b UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2f687620 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa24316c3b UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2431049e UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa243121dc UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2440a2de UE4Editor-Renderer.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2ef84b95 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2efa7efd UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa2efac1e6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa3222ed11 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.02-11.19.59:097][337]LogOutputDevice: Error: [Callstack] 0x00007ffa3222f0fe UE4Editor-Core.dll!UnknownFunction []
+[2021.03.02-11.19.59:098][337]LogOutputDevice: Error: [Callstack] 0x00007ffa3388a442 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.03.02-11.19.59:098][337]LogOutputDevice: Error: [Callstack] 0x00007ffa33892b14 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.03.02-11.19.59:098][337]LogOutputDevice: Error: [Callstack] 0x00007ffa327889eb UE4Editor-Core.dll!UnknownFunction []
+[2021.03.02-11.19.59:098][337]LogOutputDevice: Error: [Callstack] 0x00007ffa32781680 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.02-11.19.59:098][337]LogOutputDevice: Error: [Callstack] 0x00007ffb62a57034 KERNEL32.DLL!UnknownFunction []
+[2021.03.02-11.19.59:098][337]LogOutputDevice: Error: [Callstack] 0x00007ffb6345d241 ntdll.dll!UnknownFunction []
+[2021.03.02-11.19.59:098][337]LogOutputDevice: Error: 
+[2021.03.02-11.19.59:098][337]LogStats:                SubmitErrorReport -  0.000 s
